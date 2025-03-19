@@ -2,7 +2,7 @@
 **Frontend Developer | Java DSA Enthusiast | Problem Solver**  
 
 ## 📌 About Me  
-I'm a frontend developer with a strong foundation in **Java for Data Structures & Algorithms (DSA)**.  
+I'm a frontend developer and currently building foundation in **Java for Data Structures & Algorithms (DSA)**.  
 I specialize in building **dynamic, interactive web applications** while strengthening my problem-solving skills through Java.  
 My focus is on writing **clean, scalable, and efficient code** that enhances both user experience and application performance.  
 
@@ -13,13 +13,13 @@ My focus is on writing **clean, scalable, and efficient code** that enhances bot
 
 ## 🚀 Technical Skills  
 ### 🎨 **Frontend Development:**  
-- **JavaScript (ES6+)** – Enhancing interactivity & performance  
-- **React.js** – Building dynamic & reusable UI components  
+- **JavaScript (ES6+)** – Enhancing interactivity & performance(in progress)  
+- **React.js** – Building dynamic & reusable UI components(in progress)
 - **HTML5 & CSS3** – Creating responsive and accessible designs  
-- **Bootstrap & Tailwind CSS** – Styling modern UIs  
+- **Bootstrap & Tailwind CSS** – Styling modern UIs(in progress)  
 
 ### 🖥️ **Java & Data Structures:**  
-- **Core Java** – OOP, Multithreading, Collections Framework  
+- **Core Java** – OOP, Multithreading  
 - **DSA in Java** – Arrays, Linked Lists, Stacks, Queues, Trees, Graphs  
 - **Algorithmic Problem Solving** – Sorting, Searching, Recursion, Dynamic Programming  
 
@@ -30,7 +30,7 @@ My focus is on writing **clean, scalable, and efficient code** that enhances bot
 - **Postman** – API testing for web applications  
 
 ## 📂 What You'll Find in My GitHub  
-✔ **Frontend Projects** – Interactive websites, UI components, and React.js apps  
+✔ **Frontend Projects** – Interactive websites, UI components. 
 ✔ **Java DSA Solutions** – Well-structured problem-solving approaches  
 ✔ **Open-Source Contributions** – Engaging with the developer community  
 
